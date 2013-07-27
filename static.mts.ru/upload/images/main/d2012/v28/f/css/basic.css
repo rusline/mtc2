@@ -12079,3 +12079,59 @@ text-decoration:none !important;
   font-size: 11px;
   color: #3d3d3d;
 }
+
+/* ---------------------------------------------------------- */
+.my-download-box{float:right;width:246px;background:#e91c2a;border-radius: 5px; -webkit-border-radius: 5px;padding:3px 2px;}
+.my-download-box h4{color:#fff;font-size:11px;padding:0 3px 5px 3px;margin:0}
+.my-download-box ul{background:#fff;border-radius: 5px; -webkit-border-radius: 5px;}
+.my-download-box ul li.download{background:url(../img/new/pdf.png) 8px 10px no-repeat;padding:15px 8px 15px 35px;}
+.my-download-box ul li.download a{float:right;background:url(../img/new/bt_bg.png) repeat-x;border-radius:10px; -webkit-border-radius:10px;color:#fff;font-size:11px;padding:0 20px;height:19px;line-height:19px;text-decoration:none}
+.my-download-box ul li.download span{font-size:10px;}
+.my-download-box ul li.size{background:#e6e6e6;padding:2px 8px;text-align:right;font-size:10px}
+
+.b-tardescr{font-size:10px;margin-left:-12px}
+.b-tardescr ul li{padding-left:15px;}
+
+.h-newtar-col1{width:370px}
+.h-nt-lego-inner {width:326px !important;padding:10px !important;border:1px solid #000;border-radius: 5px; -webkit-border-radius: 5px;}
+.texts .h-nt-lego-inner h2{font-size:14px;font-weight:bold;padding-bottom:0;margin-bottom:0}
+.texts .h-nt-lego-inner h2 i{display:block}
+.texts .h-nt-lego-inner h3{color:#0054a6;font-size:12px;margin:0;padding:6px 0 2px 0 !important;display:block}
+.texts .h-nt-lego-inner .bp-wrap{margin:5px 0 0 0}
+.texts .h-nt-lego-inner table.base-params{width:100%}
+.texts .h-nt-lego-inner table.base-params td{color:#595959;font-size:11px}
+.texts .h-nt-lego-inner .base-params td.col1 {padding-top:2px;text-align: left;white-space: nowrap;width:50px;}
+.texts .h-nt-lego-inner .base-params td .bp-div {line-height:14px;padding: 0 0 0 10px;position: relative;font-size:11px}
+.texts .h-nt-lego-inner .base-params .price{font-size:11px;min-height:inherit;padding:0;margin:0}
+.texts .h-nt-lego-inner .base-params .price i {font-size: 11px;font-style: normal;line-height: 14px;font-weight:600}
+.texts .h-nt-lego-inner .bp-holder {padding-bottom:10px;border-bottom:1px dashed #000;margin-bottom:10px}
+.texts .h-nt-lego-inner .numb_choose {background: none repeat scroll 0 0 #ec1d23;left:-15px;margin: 10px -30px 5px 0;padding: 4px 15px;position: relative;color:#fff}
+.texts .h-nt-lego-inner .h-ec-wrap{width:353px}
+.texts .h-nt-lego-inner .numb_choose .jqTransformRadio{border-radius: 8px; -webkit-border-radius: 8px;}
+.texts .h-nt-lego-inner .ec-link {background: url("../i/new_tar/ec-link-bg.png") center center;color: #FFAFAF;display: block;height: 52px;margin: 0 auto;
+    padding: 12px 0 0;text-align: center;text-decoration: none;width:auto;border-radius: 5px; -webkit-border-radius: 5px;}
+.texts .h-nt-lego-inner .more-params a{color:#0054a6;font-size:11px;text-decoration:underline;}
+
+.h-newtar-col2{width:246px;background:#e91c2a;border-radius: 5px; -webkit-border-radius: 5px;padding:3px 2px;}
+.h-newtar-col2 h2{color:#fff;font-size:11px;padding:0 3px 5px 3px !important;margin:0;font-size:11px !important;font-weight:400}
+.h-newtar-col2 #savings{background:#fff;border-radius: 5px; -webkit-border-radius: 5px;padding:10px;font-size:10px}
+.h-newtar-col2 #savings p{border-bottom:1px dashed #000;padding-bottom:8px}
+.h-newtar-col2 #savings h4{font-size:10px;font-weight:600;padding-top:0px}
+form.jqtransformdone .tsl-wrap .ts-sp {border-bottom:none;color: #000;cursor: pointer;display: inline;float: none;margin:0;}
+.tar-services-list li .tsl-wrap img {margin-top:0px !important;}
+
+
+/* --- */
+.pic-banner{border-bottom:4px solid #ec1d23;border-radius: 5px; -webkit-border-radius: 5px;width:666px;height:342px}
+.pic-banner a{}
+.pic-banner img{border-radius:5px 5px 0 0; -webkit-border-radius: 5px 5px 0 0;width:666px}
+
+.texts ul.serv-list{margin:0;padding:0;list-style-type:none}
+.texts ul.serv-list li{float:left;width:113px;margin:15px 0 0 50px;padding:0;background:none}
+.texts ul.serv-list li:first-child{margin-left:8px;width:125px}
+.texts ul.serv-list li a{text-decoration:none;color:#313131;}
+.texts ul.serv-list li p{font-size:14px !important;padding:5px 0 0 0}
+
+.get-box {background:#e3000b;border-radius: 5px 5px 0 0; -webkit-border-radius: 5px 5px 0 0;text-align:center;padding:25px}
+.get-box a{background:url(../img/new/bt2_bg.png) repeat-x;height:36px;line-height:36px;color:#000;font-size:20px;text-decoration:none;text-align:center;width:390px;margin:0 auto;display:block;box-shadow: 0 10px 20px #b20b13;border-radius:14px; -webkit-border-radius:14px;}
+.snoska-txt{padding:15px 20px;font-size:11px;color:#5e5f5f}
